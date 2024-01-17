@@ -29,5 +29,5 @@ cluster the cryptocurrencies for the best value for k on the PCA data. Then crea
 ---
 
 ### Visualize and Compare the Results
-![Elbow_Curve_Comparison](Cryptocurrencies/Images/<Elbow Curve Comparison.png>)
-![Scatter_Plot_Comparison](Cryptocurrencies/Images/<Scatter Plot Comparison.png>)
+![Elbow_Curve_Comparison](Cryptocurrencies/Images/Elbow_Curve_Comparison.png)
+![Scatter_Plot_Comparison](Cryptocurrencies/Images/Scatter_Plot_Comparison.png)
