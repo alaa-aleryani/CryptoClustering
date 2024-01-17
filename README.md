@@ -2,7 +2,7 @@
 
 ### Prepare the Data
 In this challenge, first I prepared the data by using the `StandardScaler()` module from `scikit-learn` to normalize the data from the CSV file. Then Created a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
-![Original DataFrame vs. Scaled DataFrame](image.png)
+![Original DataFrame vs. Scaled DataFrame](Images/image.png)
 
 ---
 
@@ -29,5 +29,5 @@ cluster the cryptocurrencies for the best value for k on the PCA data. Then crea
 ---
 
 ### Visualize and Compare the Results
-![Elbow_Curve_Comparison](<Elbow Curve Comparison.png>)
-![Scatter_Plot_Comparison](<Scatter Plot Comparison.png>)
+![Elbow_Curve_Comparison](Images/<Elbow Curve Comparison.png>)
+![Scatter_Plot_Comparison](Images/<Scatter Plot Comparison.png>)
